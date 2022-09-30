@@ -26,6 +26,11 @@ Feel free to [add](#contributions) relevant topics according to your project.
 
 ## Finance
 ---
+**PesaYetu**
+
+An easy-to-use visualization tool that helps journalists quickly find, analyse and compare government budget data to help fact-check claims about resource allocations, public procurement and development plans or services. 
+
+**Source:** https://github.com/CodeForAfrica/PesaYetu
 
 ## Energy
 ---
@@ -63,4 +68,4 @@ Source
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Volutpat lacus laoreet non curabitur gravida arcu ac. Fermentum posuere urna nec tincidunt. Amet purus gravida quis blandit turpis.
 
-**Source**: https://example.com
+**Source/Link**: https://example.com
