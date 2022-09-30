@@ -2,6 +2,7 @@
 A collection of African Opensource projects under specific themes.
 
 
+![AfriSource](./img/AfriSource.png)
 ## Table of contents
 
 1. [Health](#health)
