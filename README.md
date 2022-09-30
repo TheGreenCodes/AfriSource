@@ -14,18 +14,15 @@ A collection of African Opensource projects under specific themes.
 Feel free to [add](#contributions) relevant topics according to your project. 
 
 ## Health
----
 
  Opensource projects around health
 
 ## Agriculture
----
 
 ## Environement
----
 
 ## Finance
----
+
 **PesaYetu**
 
 An easy-to-use visualization tool that helps journalists quickly find, analyse and compare government budget data to help fact-check claims about resource allocations, public procurement and development plans or services. 
@@ -33,13 +30,13 @@ An easy-to-use visualization tool that helps journalists quickly find, analyse a
 **Source:** https://github.com/CodeForAfrica/PesaYetu
 
 ## Energy
----
+
 
 ## Education
----
+
 
 ## Equality
----
+
 
 ## General
 ---
